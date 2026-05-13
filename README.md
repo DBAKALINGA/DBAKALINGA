@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DBAKALINGA/DBAKALINGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm fraigod, a Software Developer from Tanzania.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python & Django
+- PHP & MySQL
+- Flutter
+- HTML, CSS, JavaScript
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Freelance Marketplace System
+- FileHub Document Management System
+- School Management System
+- AI Chatbot for College Services
+
+## 📫 Contact Me
+- Email: fraigodrichard@gmail.com
+- GitHub: https://github.com/DBAKALINGA
